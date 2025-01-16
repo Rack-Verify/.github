@@ -5,6 +5,7 @@
 - [BE](https://github.com/Rack-Verify/Rack-Verify-Backend)
 - [FE](https://github.com/Rack-Verify/Rack-Verify-Frontend)
 - [ML](https://github.com/Rack-Verify/Rack-Verify-Model)
+- [Documentation](https://github.com/Rack-Verify/Documentation)
 
 <table border="0">
 <tr>
